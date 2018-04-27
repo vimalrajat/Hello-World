@@ -1,3 +1,2 @@
 # Hello-World
-Learning the git hub
-Wonderful feeling
+##This is a Markdown file
